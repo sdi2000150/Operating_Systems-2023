@@ -1,0 +1,83 @@
+1.Printing all the sorted records, based on last name in ascending order (and secondarily on first name, and ID):
+
+                          0      
+BAKER        STANTON      100130 4019
+BARRERA      BENNETT      100060 3999
+BENSON       SHELBY       100024 4002
+BLACKBURN    LYMAN        100009 4001
+BOYLE        ROLF         100074 3993
+BRAY         ANTON        100047 4010
+BRIGGS       JAME         100135 3998
+BRYANT       NORBERT      100123 3996
+CARRILLO     BRANT        100018 4018
+CASTANEDA    STACEY       100133 4002
+CHAVEZ       ROSARIO      100139 4005
+COBB         DWIGHT       100097 4010
+COLEMAN      RALEIGH      100083 4011
+CONLEY       DILLON       100136 4018
+CRANE        ROOSEVELT    100038 4009
+DIAZ         BARRETT      100043 3990
+DONALDSON    MARCOS       100134 4006
+EVERETT      BRETT        100113 4005
+FIELDS       KAREEM       100081 4010
+FRYE         LOYD         100126 3996
+HARRELL      TRUMAN       100078 4005
+HART         FRANCISCO    100118 4012
+HEATH        FLOYD        100140 4015
+HODGES       MAURICE      100065 3993
+LANG         KASEY        100108 4009
+LARSON       HOMER        100050 4007
+LE           TERENCE      100049 4009
+MADDEN       ALPHONSO     100086 4019
+MADDOX       JAY          100103 3995
+MARSHALL     KRAIG        100003 3990
+ORR          JAIME        100066 4011
+OSBORNE      DON          100023 4019
+PACHECO      CODY         100088 4008
+PARSONS      EDDIE        100027 4004
+PRINCE       TERRANCE     100068 3994
+REID         DONOVAN      100014 4012
+ROGERS       TOM          100070 4006
+ROLLINS      REINALDO     100025 4014
+ROWLAND      KRIS         100033 4009
+SANTANA      REUBEN       100084 4001
+SANTOS       DAVE         100007 4012
+SHORT        SAL          100109 3990
+SNYDER       BYRON        100059 3996
+SWEENEY      PERCY        100028 4006
+TATE         AURELIO      100054 4002
+VALENCIA     JIM          100040 4004
+VELAZQUEZ    BLAKE        100005 4006
+WIGGINS      DEAN         100093 4010
+WOODARD      HUNG         100102 4013
+YANG         JULES        100142 4011
+
+
+2.Printing the time needed by every Sorter to finish its operations:
+
+Splitter/Merger no_1:
+    Sorter no_1: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_2: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_3: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_4: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_5: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+Splitter/Merger no_2:
+    Sorter no_1: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_2: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_3: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_4: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+Splitter/Merger no_3:
+    Sorter no_1: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_2: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_3: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+Splitter/Merger no_4:
+    Sorter no_1: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+    Sorter no_2: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+Splitter/Merger no_5:
+    Sorter no_1: run time was 0.000000 sec (REAL time) although he used the CPU for 0.000000 sec (CPU time)
+
+
+3.Printing the number of signals Coordinator received by all his children:
+
+Number of USR1 signals received: 5
+Number of USR2 signals received: 14
